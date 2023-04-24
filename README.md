@@ -8,7 +8,7 @@
 1. **[The Content](#the-content)**
 1. **[The Build](#the-build)**
 1. **[Summary](#summary)**
-<br>
+
 
 ### The Design
 ---
