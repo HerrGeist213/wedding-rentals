@@ -1,7 +1,7 @@
 <h1 align="center">Blissful Rentals</h1>
 <h4 align="center">by Kevin O'Haugherty</h4>
 
-![blissful rentals nav banner](/menu/images/readme-banner.png)
+![blissful rentals nav banner](menu/images/readme-banner.png)
 
 ### The Design
 ---
