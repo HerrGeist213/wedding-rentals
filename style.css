@@ -397,6 +397,14 @@ header {
   margin: auto;
 }
 
+.rental {
+  margin: auto;
+}
+
+.rental a {
+  margin: 0.5rem 0 2.25rem 0;
+}
+
 .container h1 {
   color: var(--clr-black);
   text-transform: uppercase;
