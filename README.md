@@ -2,6 +2,7 @@
 <h4 align="center">by Kevin O'Haugherty</h4>
 
 ![blissful rentals nav banner](menu/images/readme-banner.png)
+<br><br>
 
 ### The Design
 ---
