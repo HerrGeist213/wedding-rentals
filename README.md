@@ -13,19 +13,19 @@
 
 ### The Design
 ---
-**Parallax**
+**Parallax**<br>
 Repurpose a parallax site from a previous project in the class. Ensure that the responsive navbar functions and the hero image button links to a JavaScript-based sortable menu based on the theme of the assignment.
 
-**Sortable Menu**
+**Sortable Menu**<br>
 With standard HTML and CSS aspects, JavaScript does all the heavy lifting on this section of the site. Given that there's a code-along video from freeCodeCamp to assist with the sortable menu, the challenge was not impossible. That is not to say there was no challenge. 
 <br><br>
 
 ### The Content
 ---
-**Goals & Users**
+**Goals & Users**<br>
 Generally, the site is designed to attract females between the age of 18 and 55 who need to rent necessities for a wedding. Since the business also has a strong social media presence, links to Instagram, Facebook, and Twitter are also promiment. Finally, the theme of the site is one of simple elegance with a rather neutral color palette. 
 
-**Products & Services**
+**Products & Services**<br>
 Blissful Rentals provides a wide array of wedding amenities for rent, along with delivry / set-up and tear-down services to make the big day a lot easier for the customer. There is also a call to engage on social media for potential discounts.
 <br><br>
 
