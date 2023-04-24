@@ -362,6 +362,16 @@ nav {
 
 }
 
+.wedding {
+  display: flex;
+  flex-direction: column;
+}
+
+.wedding img {
+  border-radius: 15px;
+  margin: 0 auto 2rem auto  ;
+}
+
 
 /* ================ */
 /* ===== HERO ===== */
@@ -435,7 +445,7 @@ header {
 
 footer {
   background: var(--footer);
-  padding: 5rem 1rem;
+  padding: 1rem;
   font-size: 1.25rem;
 }
 
