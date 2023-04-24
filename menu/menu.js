@@ -77,7 +77,7 @@ const menu = [
     category: "pop-ups",
     price: 599.99,
     img: "images/stages.jpg",
-    desc: `We have staging for bands and we have altars for the big ceremony. Not matter how large or small, we can make your event unforgettable.`,
+    desc: `We have staging for bands and we have altars for the big ceremony. No matter how large or small, we can make your event unforgettable.`,
   },
   {
     id: 11,
