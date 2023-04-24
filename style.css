@@ -245,6 +245,48 @@ nav {
   height: 80px;
 }
 
+#icon {
+  padding: 2rem;
+}
+  
+.social {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--dogwood);
+  padding: 0 3rem;
+}
+
+.social a {
+  color: var(--dogwood);
+}
+
+.social a:hover {
+  color: var(--clr-black);
+}
+
+
+@media screen and (min-width: 800px) {
+  
+  .social {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: var(--dogwood);
+    padding: 0 3rem;
+  }
+  
+  .social a {
+    color: var(--dogwood);
+  }
+  
+  .social a:hover {
+    color: var(--clr-black);
+  }
+
+}
+
 .links-container {
   height: 0;
   overflow: hidden;
@@ -381,9 +423,11 @@ header {
   height: 80%;
 }
 
+#social,
 #rentals {
   background: var(--clr-white);
 }
+
 
 #contact {
   text-align: center;
